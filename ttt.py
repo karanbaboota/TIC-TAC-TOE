@@ -20,7 +20,7 @@ circle = pygame.transform.smoothscale(circle, (100,100))
 iconO = pygame.transform.smoothscale(circle, (20,20))
 
 #Font
-font = pygame.font.Font('/System/Library/Fonts/Supplemental/Comic Sans MS.ttf', 32)
+font = pygame.font.Font("font.ttf", 32)
 
 #Initializing basic variables
 run = True
